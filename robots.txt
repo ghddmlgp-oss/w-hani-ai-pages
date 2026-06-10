@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://w-hani.co.kr/sitemap.xml
