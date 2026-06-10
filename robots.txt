@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://w-hani.co.kr/sitemap.xml
+Sitemap: https://ghddmlgp-oss.github.io/w-hani-ai-pages/sitemap.xml
