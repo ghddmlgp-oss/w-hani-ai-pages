@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-06-22T13:53:18",
+  "hospital_name": "전주W한방병원",
+  "hospital_type": "암요양병원",
+  "city": "전주",
+  "website": "https://ghddmlgp-oss.github.io/w-hani-ai-pages",
+  "page_count": 75,
+  "faq_schema_count": 42,
+  "howto_schema_count": 42,
+  "medical_webpage_schema_count": 75,
+  "medical_organization_schema_count": 0,
+  "ai_summary_count": 75,
+  "ai_answer_count": 75,
+  "internal_link_count": 584,
+  "sitemap_exists": true,
+  "robots_exists": true,
+  "llms_txt_exists": true,
+  "ai_knowledge_graph_exists": true
+}
